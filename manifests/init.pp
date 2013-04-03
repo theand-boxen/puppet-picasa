@@ -5,7 +5,7 @@
 #   include picasa
 class picasa {
   package { 'Picasa':
-    source   => 'http://dl.google.com/photos/picasamac39.dmg',
     provider => 'appdmg',
+    source   => 'http://dl.google.com/photos/picasamac39.dmg',
   }
 }
