@@ -2,7 +2,7 @@
 
 Installs Google Picasa.
 
-[![Build Status](https://travis-ci.org/previousnext/puppet-picasa.png?branch=master)](https://travis-ci.org/previousnext/puppet-picasa)
+[![Build Status](https://travis-ci.org/boxen/puppet-picasa.png?branch=master)](https://travis-ci.org/boxen/puppet-picasa)
 
 ## Usage
 
