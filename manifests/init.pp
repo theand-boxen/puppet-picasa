@@ -6,6 +6,6 @@
 class picasa {
   package { 'Picasa':
     provider => 'appdmg',
-    source   => 'http://dl.google.com/photos/picasamac39.dmg',
+    source   => 'https://dl.google.com/dl/picasa/picasamac39.dmg',
   }
 }
